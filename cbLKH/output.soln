@@ -1,0 +1,12 @@
+NAME : solver03.660.tour
+COMMENT : Length = 660
+COMMENT : Found by LKH [Keld Helsgaun] Thu Dec 18 11:33:43 2014
+TYPE : TOUR
+DIMENSION : 4
+TOUR_SECTION
+1
+2
+3
+4
+-1
+EOF

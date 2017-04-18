@@ -1,0 +1,10 @@
+PROBLEM_FILE  = input.tsp
+TOUR_FILE     = output.soln
+MOVE_TYPE     = 5
+PATCHING_C    = 3
+PATCHING_A    = 2
+RUNS          = 1
+TRACE_LEVEL   = 0
+TIME_LIMIT    = 10
+STOP_AT_MAX_COST  = YES
+MAX_COST          = 1000

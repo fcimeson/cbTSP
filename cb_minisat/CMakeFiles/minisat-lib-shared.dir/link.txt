@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libminisat.so.2 -o libminisat.so.2.1.0 CMakeFiles/minisat-lib-shared.dir/minisat/utils/Options.cc.o CMakeFiles/minisat-lib-shared.dir/minisat/utils/System.cc.o CMakeFiles/minisat-lib-shared.dir/minisat/core/Solver.cc.o CMakeFiles/minisat-lib-shared.dir/minisat/simp/SimpSolver.cc.o -lz 

@@ -1,0 +1,4 @@
+/home/norm/MASc/project02/minisat/CMakeFiles/minisat-lib-shared.dir
+/home/norm/MASc/project02/minisat/CMakeFiles/minisat-lib-static.dir
+/home/norm/MASc/project02/minisat/CMakeFiles/minisat_core.dir
+/home/norm/MASc/project02/minisat/CMakeFiles/minisat_simp.dir

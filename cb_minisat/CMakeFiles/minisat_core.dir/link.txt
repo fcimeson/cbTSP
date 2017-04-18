@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/minisat_core.dir/minisat/core/Main.cc.o  -o minisat_core -rdynamic libminisat.a -lz 
