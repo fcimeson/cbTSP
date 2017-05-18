@@ -50,7 +50,7 @@ Usage input_files [options]:
 Currently the solver makes external calls to the LKH. This is a bottle neck and I have plans to compile LKH into cbTSP to address this.
 
 
-# Licence
+# License
 Copyright 2017 Frank Imeson and Stephen L. Smith
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
